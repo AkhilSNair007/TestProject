@@ -1,1 +1,3 @@
-/bin/
+echo "*.class" >> .gitignore
+echo "*.settings" >> .gitignore
+echo "*.project" >> .gitignore
